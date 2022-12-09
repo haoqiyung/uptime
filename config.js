@@ -25,11 +25,11 @@ window.Config = {
   Navi: [
     {
       text: '在线音乐',
-      url: 'https://wasenk.cf'
+      url: 'https://music.wasenk.cf'
     },
     {
       text: '在线网盘',
-      url: 'https://www.wasenk.cf'
+      url: 'https://pan.wasenk.cf'
     },
     {
       text: 'GitHub',
